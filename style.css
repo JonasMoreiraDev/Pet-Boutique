@@ -72,5 +72,42 @@
 
 /*Serviços*/
 
+.secao-servicos {
+    width: 100%;
+    padding: 120px 80px;
+}
 
+.secao-servicos h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
 
+.lista {
+    max-width: 800px;
+    margin: 0  auto 50px auto;
+    color: #3c184e;
+}
+
+.lista li {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.lista .text-destaque {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.galeria {
+    max-width: 800px;
+    margin:  0 auto 0 auto;
+}
+
+.galeria img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+/*Faixas Redes Socias*/
