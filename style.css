@@ -139,3 +139,29 @@
     height: 50px;
 }
 
+/*Marcas*/
+
+.secao-marcas {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.secao-marcas h3 {
+    font-size: 36px;
+    color: #3c184e;
+    margin-bottom: 45px;
+}
+
+.img-marcas {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.img-marcas img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+/*Localização*/
