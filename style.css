@@ -111,3 +111,31 @@
 }
 
 /*Faixas Redes Socias*/
+
+.secao-faixas {
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.secao-faixas p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+}
+
+.secao-faixas .text-destaque {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.secao-faixas a {
+    margin: 0 20px;
+}
+
+.secao-faixas img {
+    width: 50px;
+    height: 50px;
+}
+
